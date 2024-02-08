@@ -9,14 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a903e72-ecbf-48b7-9686-0498b1a5bd9e" name="Changes" comment="commit Config.java 22:38">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/controllers/FirstController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/goodbye.html" afterDir="false" />
+    <list default="true" id="3a903e72-ecbf-48b7-9686-0498b1a5bd9e" name="Changes" comment="Add FirstController, SecondController">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/controllers/SecondController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/second/exit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/WebInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/WebInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/hello_world.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +64,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.85" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.85" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="corretto-17" nameIsGenerated="true">
       <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
@@ -166,7 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707236092862</updated>
       <workItem from="1707236093938" duration="4838000" />
-      <workItem from="1707408933637" duration="2313000" />
+      <workItem from="1707408933637" duration="3353000" />
     </task>
     <task id="LOCAL-00001" summary="commit Config.java">
       <option name="closed" value="true" />
@@ -184,14 +184,34 @@
       <option name="project" value="LOCAL" />
       <updated>1707241109694</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add FirstController, SecondController">
+      <option name="closed" value="true" />
+      <created>1707413221609</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707413221609</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit Config.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit Config.java" />
+    <MESSAGE value="Add FirstController, SecondController" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add FirstController, SecondController" />
   </component>
 </project>
