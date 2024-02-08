@@ -9,9 +9,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a903e72-ecbf-48b7-9686-0498b1a5bd9e" name="Changes" comment="commit Config.java">
+    <list default="true" id="3a903e72-ecbf-48b7-9686-0498b1a5bd9e" name="Changes" comment="commit Config.java 22:38">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/controllers/FirstController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/goodbye.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/WebInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/WebInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/hello_world.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +27,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -58,6 +63,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "768f40fe3946b0f04dd8e211235953d3",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -159,7 +165,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707236092862</updated>
-      <workItem from="1707236093938" duration="4656000" />
+      <workItem from="1707236093938" duration="4838000" />
+      <workItem from="1707408933637" duration="2313000" />
     </task>
     <task id="LOCAL-00001" summary="commit Config.java">
       <option name="closed" value="true" />
@@ -169,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707240656049</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit Config.java">
+      <option name="closed" value="true" />
+      <created>1707241109694</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707241109694</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
