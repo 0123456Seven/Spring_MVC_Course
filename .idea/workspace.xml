@@ -9,12 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a903e72-ecbf-48b7-9686-0498b1a5bd9e" name="Changes" comment="Add FirstController, SecondController">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/controllers/SecondController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/second/exit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3a903e72-ecbf-48b7-9686-0498b1a5bd9e" name="Changes" comment="Add FirstController, SecondController" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +57,12 @@
     "project.structure.side.proportion": "0.2",
     "spring.configuration.checksum": "768f40fe3946b0f04dd8e211235953d3",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
   }
 }]]></component>
   <component name="Push.Settings">
@@ -167,6 +168,7 @@
       <updated>1707236092862</updated>
       <workItem from="1707236093938" duration="4838000" />
       <workItem from="1707408933637" duration="3353000" />
+      <workItem from="1707414216176" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="commit Config.java">
       <option name="closed" value="true" />
