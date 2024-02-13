@@ -6,7 +6,10 @@
 </head>
 <body>
   <h1>Hello!</h1>
-  <a href="/first/goodbye">link to goodbye</a>
+  <h2  th:text="${name}"></h2>
+  <h2 th:text="${surname}"></h2>
+  <a href="/first/goodbye?name=Marsel&surname=Bagautdinov">link to goodbye</a>
   <a href="/second/exit">EXIT</a>
+
 </body>
 </html>

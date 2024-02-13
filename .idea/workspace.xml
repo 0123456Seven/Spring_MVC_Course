@@ -9,7 +9,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a903e72-ecbf-48b7-9686-0498b1a5bd9e" name="Changes" comment="Add FirstController, SecondController" />
+    <list default="true" id="3a903e72-ecbf-48b7-9686-0498b1a5bd9e" name="Changes" comment="Add FirstController, SecondController">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/WebInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/config/WebInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/controllers/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/controllers/FirstController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/controllers/PeopleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/controllers/PeopleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/dao/PersonDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/models/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/xaero/springmvc/config/models/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/goodbye.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/goodbye.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,8 +29,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,6 +59,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/0123456Seven/Projects/back/alishev_course/Spring_MVC_Course",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -168,7 +180,9 @@
       <updated>1707236092862</updated>
       <workItem from="1707236093938" duration="4838000" />
       <workItem from="1707408933637" duration="3353000" />
-      <workItem from="1707414216176" duration="1200000" />
+      <workItem from="1707414216176" duration="1226000" />
+      <workItem from="1707750806056" duration="127000" />
+      <workItem from="1707840472679" duration="4750000" />
     </task>
     <task id="LOCAL-00001" summary="commit Config.java">
       <option name="closed" value="true" />
@@ -194,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707413221609</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add FirstController, SecondController">
+      <option name="closed" value="true" />
+      <created>1707416410076</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707416410076</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

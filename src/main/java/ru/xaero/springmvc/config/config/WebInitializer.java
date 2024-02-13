@@ -1,4 +1,4 @@
-package ru.xaero.springmvc.config;
+package ru.xaero.springmvc.config.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
